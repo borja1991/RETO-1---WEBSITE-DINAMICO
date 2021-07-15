@@ -5,3 +5,14 @@
     border: #000000;
     border-radius: 3%;
 }
+
+#encabezado-lista{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#titulos{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 1px 1px 1px rgb(107, 107, 107);
+    font-style: oblique;
+}
