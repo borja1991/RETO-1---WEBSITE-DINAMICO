@@ -1,12 +1,17 @@
 .ultimos-viajes{
-    height: 12rem;
-    width: 12rem;
-    margin: 15px;
+    height: 11rem;
+    width: 11rem;
+    margin: 10px;
     border: #000000;
     border-radius: 3%;
     background-size: cover;
     object-fit: cover;
 }
+
+    .ultimos-viajes:hover{
+        cursor: pointer;
+        box-shadow: 10px 20px 20px black;
+    }
 
 #encabezado-lista{
     font-weight: bold;
