@@ -25,3 +25,8 @@
     text-shadow: 1px 1px 1px rgb(107, 107, 107);
     font-style: oblique;
 }
+
+.icon-redes-sociales:hover{
+    cursor: pointer;
+    opacity: 50%;
+}

@@ -52,4 +52,9 @@ h1{
     padding: 3px;
     background-color: rgb(75, 75, 75);
     color: white;
+}
+
+    .icon-redes-sociales:hover{
+        cursor: pointer;
+        opacity: 50%;
     }
