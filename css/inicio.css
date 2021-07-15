@@ -2,12 +2,14 @@
     background-color: rgb(184, 184, 184);
     box-shadow: 1px 2px 20px black;
     font-weight: bold;
+    margin-top: -0.8rem;
 }
 
 
 body{
     background-image: url(../img/Rex.jpg);
-    background-repeat:repeat-x;
+    background-repeat:repeat-x,repeat-y;
+    margin: 12px; ;
 }
 
 h1{
