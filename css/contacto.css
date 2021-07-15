@@ -19,3 +19,12 @@
     margin-top: 2rem;
     
 }
+
+.icon-redes-sociales{
+    height: 3rem;
+}
+
+.icon-redes-sociales:hover{
+    cursor: pointer;
+    opacity: 50%;
+}

@@ -47,3 +47,9 @@ h1{
     border-color: orangered;
 }
 
+.footer{
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(75, 75, 75);
+    color: white;
+    }
