@@ -1,0 +1,36 @@
+
+
+.ultimos-viajes{
+    height: 11rem;
+    width: 11rem;
+    margin: 10px;
+    border: #000000;
+    border-radius: 3%;
+    background-size: cover;
+    object-fit: cover;
+}
+
+    .ultimos-viajes:hover{
+        cursor: pointer;
+        box-shadow: 10px 20px 20px black;
+    }
+
+#encabezado-lista{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#titulos{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 1px 1px 1px rgb(107, 107, 107);
+    font-style: oblique;
+}
+
+.icon-redes-sociales{
+    height: 3rem;
+}
+
+.icon-redes-sociales:hover{
+    cursor: pointer;
+    opacity: 50%;
+}
